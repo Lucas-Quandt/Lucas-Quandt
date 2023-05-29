@@ -12,7 +12,7 @@
 <br />
 <p align="center">
 <a href="https://www.instagram.com/quandt_/">
-<img src="https://cdn.cdnlogo.com/logos/i/4/instagram.svg" alt="Logo" width="80" height="80" />
+<img src="https://github.com/Lucas-Quandt/Lucas-Quandt/assets/103226578/1a478b9d-925e-4dcb-ac2a-d43ccc7e84f2" alt="Logo" width="80" height="80" />
 </a>
 
 
