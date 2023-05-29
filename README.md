@@ -3,25 +3,29 @@
                         
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/lucas-quandt-b90901128/" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" alt="" height="40" width="40" /a>.....
-<a href="https://www.instagram.com/quandt_/" target="blank"><img align="center" img src="https://cdn.cdnlogo.com/logos/i/4/instagram.svg" alt="Logo" width="40" height="40" /a>..... 
+<a href="https://www.linkedin.com/in/lucas-quandt-b90901128/" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" alt="" height="40" width="40" /a>
+<a href="https://www.instagram.com/quandt_/" target="blank"><img align="center" img src="https://cdn.cdnlogo.com/logos/i/4/instagram.svg" alt="Logo" width="40" height="40" /a>
 <a href="mailto:lucasdantas2556@gmail.com" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/g/68/gmail-icon.svg" alt="" height="40" width="40">
 </p>
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Lucas-Quandt stats](https://github-readme-stats.vercel.app/api?username=lucas-quandt&theme=tokyonight&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-quandt&theme=tokyonight&show_icons=true)
 ----------------------------------------------------------------------------------------------------------------------------------------------------  
-  
-<h3 align="left">Language and Tools:</h3>
-<p align="left">
-<a href="target="blank"><img align="left" src="https://cdn.cdnlogo.com/logos/j/86/java.svg" alt="" height="70" width="70" /a>                                                             
-<a href="https://cdnlogo.com/logo/javascript_36689.html" target="blank"><img align="left" src="https://cdn.cdnlogo.com/logos/j/33/javascript.svg" alt="" height="70" width="70" /a>
-<a href="target="blank"><img align="left" src="https://cdn.cdnlogo.com/logos/h/90/html-5.svg" alt="" height="70" width="70">
-<p>                                                                                                                    
 
-                                                                                                                     
-                                                                                                                           
-                                                                                                                                                                                         
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href=target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/j/86/java.svg" alt="" height="70" width="70" /a>..........
+<a href=target="blank"><img align="center" img src="https://cdn.cdnlogo.com/logos/j/69/javascript.svg" alt="Logo" width="60" height="60" /a>.......... 
+<a href=target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/h/90/html-5.svg" alt="" height="60" width="60">..........
+
+
+</p>                                                                                                              
+ 
+asasasasas
+  
+  
+  
+                                                                                                                                           
 
 
                                                                                                                       
