@@ -11,14 +11,8 @@
 
 ![Lucas-Quandt stats](https://github-readme-stats.vercel.app/api?username=lucas-quandt&theme=tokyonight&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-quandt&theme=tokyonight&show_icons=true)
 ----------------------------------------------------------------------------------------------------------------------------------------------------  
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.cprogramming.com/" target="_blank"><img align="left" img src="https://cdn.cdnlogo.com/logos/j/86/java.svg" alt="c" width="60" height="60"/> </a>
-</p>
-
- 
   
+<h3 align="center"><img align="center" src="https://github.com/Lucas-Quandt/Lucas-Quandt/assets/103226578/96abf505-e863-40f9-9304-4b72c691b1d6" alt="" height="700" width="970" /a>
 
 
 
