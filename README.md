@@ -15,12 +15,11 @@
 <h3 align="left">Language and Tools:</h3>
 <p align="left">
 <a href="target="blank"><img align="left" src="https://cdn.cdnlogo.com/logos/j/86/java.svg" alt="" height="70" width="70" /a>                                                             
-<a href="target="blank"><img align="left" src="https://cdn.cdnlogo.com/logos/j/69/javascript.svg" alt="" height="70" width="70" /a>
+<a href="https://cdnlogo.com/logo/javascript_36689.html" target="blank"><img align="left" src="https://cdn.cdnlogo.com/logos/j/33/javascript.svg" alt="" height="70" width="70" /a>
 <a href="target="blank"><img align="left" src="https://cdn.cdnlogo.com/logos/h/90/html-5.svg" alt="" height="70" width="70">
 <p>                                                                                                                    
 
-                                                                                                                           
-                                                                                                                           
+                                                                                                                     
                                                                                                                            
                                                                                                                                                                                          
 
