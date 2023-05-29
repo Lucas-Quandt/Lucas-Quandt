@@ -22,12 +22,8 @@
 <a href=target="blank"><img align="center" src="https://github.com/Lucas-Quandt/Lucas-Quandt/assets/103226578/f6cda724-99aa-4d02-8389-317cf2cbf745" alt="" height="70" width="100">
 </p>                                                                                                              
 
--------------------------------------------------------------------------------- 
 
-<h3 align="center"></h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/lucas-quandt-b90901128/" target="blank"><img align="center" src="https://github.com/Lucas-Quandt/Lucas-Quandt/assets/103226578/90088ee8-5b8f-44b5-9209-12f419287a72" alt="" height="150" width="150" /a>
-<h3 align="center">GitHub Profile Trophy</h3>
+
   
   
   
