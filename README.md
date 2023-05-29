@@ -32,7 +32,7 @@
   
   
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=Lucas-Quandt&theme=onedark)](https://github.com/Lucas-Quandt/github-profile-trophy)                                                                                                                      
+                                                                                                             
                                                                                                                            
                                                                                                                                 
 
