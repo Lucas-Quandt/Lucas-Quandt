@@ -6,7 +6,6 @@
 </a><a href="https://www.instagram.com/quandt_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="40" width="40" /></a>
 </p>
 
-
 ![Lucas-Quandt stats](https://github-readme-stats.vercel.app/api?username=lucas-quandt&theme=tokyonight&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-quandt&theme=tokyonight&show_icons=true)
 
 
