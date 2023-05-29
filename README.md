@@ -3,7 +3,6 @@
                         
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<img align="center" src="https://github.com/Lucas-Quandt/Lucas-Quandt/assets/103226578/3b1157ab-3e14-4071-8c47-ca3a2593682d" alt="" height="40" width="40" /a
 <a href="https://www.linkedin.com/in/lucas-quandt-b90901128/" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" alt="" height="40" width="40" /a>
 <a href="https://www.instagram.com/quandt_/" target="blank"><img align="center" img src="https://cdn.cdnlogo.com/logos/i/4/instagram.svg" alt="Logo" width="40" height="40" /> 
 </p>
