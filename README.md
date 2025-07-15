@@ -38,7 +38,7 @@
 
   <h3>Minhas Estatísticas WakaTime</h3>
   
-  [![Minhas Estatísticas WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=@62873569-a117-4d32-8e1c-9f3e556f852c&theme=dark&layout=compact)](https://wakatime.com/@62873569-a117-4d32-8e1c-9f3e556f852c)
+  [![Minhas Estatísticas WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=62873569-a117-4d32-8e1c-9f3e556f852c&theme=dark&layout=compact&range=all_time)](https://wakatime.com/@62873569-a117-4d32-8e1c-9f3e556f852c)
   
 
   <br/><br/> <h3>GitHub Profile Trophy</h3>
