@@ -7,6 +7,7 @@
 </p>
 
 ![Lucas-Quandt stats](https://github-readme-stats.vercel.app/api?username=lucas-quandt&theme=tokyonight&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-quandt&theme=tokyonight&show_icons=true)
+
 --------------------------------------------------------------------------------------------------------------------
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
@@ -25,12 +26,26 @@
 
 -------------------------------------------------------------------------------------------------------------------------
 
-<h3 align="center"></h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/lucas-quandt-b90901128/" target="blank"><img align="center" src="https://github.com/Lucas-Quandt/Lucas-Quandt/assets/103226578/90088ee8-5b8f-44b5-9209-12f419287a72" alt="" height="150" width="150" /a>
-<h3 align="center">GitHub Profile Trophy</h3>
+  <a href="https://www.linkedin.com/in/lucas-quandt-b90901128/" target="_blank">
+    <img src="https://github.com/Lucas-Quandt/Lucas-Quandt/assets/103226578/90088ee8-5b8f-44b5-9209-12f419287a72" alt="Perfil LinkedIn Lucas Quandt" height="150" width="150" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+  <h3>Minhas Estatísticas WakaTime</h3>
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=Lucas-Quandt&theme=onedark)](https://github.com/Lucas-Quandt/github-profile-trophy)
+  [![Minhas Estatísticas WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=@62873569-a117-4d32-8e1c-9f3e556f852c&theme=dark&layout=compact)](https://wakatime.com/@62873569-a117-4d32-8e1c-9f3e556f852c)
+  
+
+  <br/><br/> <h3>GitHub Profile Trophy</h3>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Lucas-Quandt&theme=onedark)](https://github.com/Lucas-Quandt/github-profile-trophy)
+
+</div>
+---
 
 
                                                                                        
