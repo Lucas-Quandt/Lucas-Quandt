@@ -17,11 +17,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://github.com/user-attachments/assets/40c2d66a-3a96-42bf-9a56-1189c566d178" height="30" alt="css3 logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode-logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height ="30" alt="git-logo" />
    <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height ="30" alt="github-logo" />
+  <img src="https://github.com/user-attachments/assets/1d9aa7d4-f970-4591-b394-f01617f6902e" height ="30" alt="github-logo" />
 </div>
 
 -------------------------------------------------------------------------------------------------------------------------
@@ -52,7 +54,9 @@
 
 
 
-  
+
+
+
   
   
   
