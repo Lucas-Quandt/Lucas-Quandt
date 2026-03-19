@@ -10,6 +10,12 @@
 </p>
 
 <p align="center">
+  <a href="https://portfolio-lucas-quandt.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/ACESSE%20MEU%20PORTFÓLIO%20COMPLETO-CORAL?style=for-the-badge&logo=react&logoColor=white" width="40%" alt="Portfolio Lucas Quandt" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lucas-quandt&theme=tokyonight&show_icons=true" alt="Lucas-Quandt stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-quandt&theme=tokyonight&show_icons=true" alt="Top Langs" />
 </p>
