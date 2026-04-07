@@ -17,8 +17,8 @@
 <p align="center">Click aqui ⬆️</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucas-quandt&theme=tokyonight&show_icons=true" alt="Lucas-Quandt stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-quandt&theme=tokyonight&show_icons=true" alt="Top Langs" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Lucas-Quandt&show_icons=true&theme=tokyonight" alt="Stats" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Lucas-Quandt&layout=compact&theme=tokyonight" alt="Langs" />
 </p>
 
 <hr>
